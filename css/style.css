@@ -223,6 +223,8 @@ h1{
         margin-left: 0px;
         margin-right: 0px;
         align-items: center;
+        filter: grayscale(50%);
+
 
     }
     .container-2{
@@ -231,7 +233,7 @@ h1{
         margin-left: 0%;
         margin-right: 0%;
         align-items: center;
-        filter: grayscale(100%);
+        filter: grayscale(50%);
     }
     .caja-texto{
         position: relative;
@@ -316,6 +318,8 @@ h1{
             margin-left: 0px;
             margin-right: 0px;
             align-items: center;
+            filter: grayscale(50%);
+
     
         }
         .container-2{
@@ -324,7 +328,7 @@ h1{
             margin-left: 0%;
             margin-right: 0%;
             align-items: center;
-            filter: grayscale(100%);
+            filter: grayscale(50%);
         }
         .caja-texto{
             position: relative;
