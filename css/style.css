@@ -229,7 +229,7 @@ h1{
         margin-left: 0px;
         margin-right: 0px;
         align-items: center;
-        filter: grayscale(50%);
+        filter: none;
 
 
     }
@@ -239,7 +239,7 @@ h1{
         margin-left: 0%;
         margin-right: 0%;
         align-items: center;
-        filter: grayscale(50%);
+        filter: none;
     }
     .caja-texto{
         position: relative;
@@ -265,7 +265,7 @@ h1{
     .responsive{
         width: 100%;
         height: auto;
-        filter: grayscale(100%);
+        filter: grayscale(20%);
     }
  }
  @media only screen and (min-width:415px) and (max-width: 768px){
@@ -328,7 +328,7 @@ h1{
             margin-left: 0px;
             margin-right: 0px;
             align-items: center;
-            filter: grayscale(50%);
+            filter: none;
 
     
         }
@@ -338,7 +338,7 @@ h1{
             margin-left: 0%;
             margin-right: 0%;
             align-items: center;
-            filter: grayscale(50%);
+            filter: none;
         }
         .caja-texto{
             position: relative;
@@ -368,7 +368,7 @@ h1{
         .responsive{
             width: 100%;
             height: auto;
-            filter: grayscale(100%);
+            filter: grayscale(20%);
         }
     }
  @media only screen and (min-width:769px) and (max-width: 1024px){
