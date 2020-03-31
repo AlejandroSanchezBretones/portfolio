@@ -77,7 +77,12 @@ a{
 }
 h1{
     text-decoration: none;
-    font-size: 2vw;
+    font-size: 1.4vw;
+    color: #ffffff;
+}
+h5{
+    text-decoration: none;
+    font-size: 1.4vw;
     color: #ffffff;
 }
 .seleccionado{
@@ -379,8 +384,8 @@ h1{
 
     .header{
         
-        padding-top: 16px;
-        padding-bottom: 16px;
+        padding-top: 32px;
+        padding-bottom: 32px;
         display: flex;
         width: 100vw;
 
@@ -422,6 +427,10 @@ h1{
         font-size: 16px;
     }
 
+    h5{
+        font-size: 26px;
+    }
+
 
     .left{
         left: 10%;
@@ -460,13 +469,21 @@ h1{
  @media only screen and (min-width:1025px) and (max-width: 1440px){
          /* estilos de ipad pro y ordenador */
 
-  
+         h1{
+            text-decoration: none;
+            font-size: 2vw;
+            color: #ffffff;
+        }h5{
+            text-decoration: none;
+            font-size: 2vw;
+            color: #ffffff;
+        }
 
 
     .header{
         
-        padding-top: 16px;
-        padding-bottom: 16px;
+        padding-top: 32px;
+        padding-bottom: 32px;
         display: flex;
         width: 100vw;
 
@@ -536,8 +553,8 @@ h1{
 
     .header{
         
-        padding-top: 16px;
-        padding-bottom: 16px;
+        padding-top: 32px;
+        padding-bottom: 32px;
         display: flex;
         width: 100vw;
 
